@@ -16,4 +16,16 @@
     But she cry, cry, cries in her lonely heart, thinking
     If there's nothing missing in my life
     Then why do these tears come at night?
+
+# Artist: Smiley Serious
+# Song: Wrecking Ball
+# Lyrics: 
+    tan ten tan ten tan ten tan ten A love no one could deny
+    ten ten ten ten ten ten ten ten ten ten I will always want you
+
+    I came in like a wrecking ball
+    I never hit so hard in love
+    All I wanted was to break your walls
+    All you ever did was wreck me
+    Yeah, you, you wreck me
 # This is a sample text in README file
