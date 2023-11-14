@@ -29,6 +29,11 @@
     All you ever did was wreck me
     Yeah, you, you wreck me
 
+# Local Artist: JK Lababo
+# Song: Ere
+# Lyrics:
+    Isang Bilyon ikaw lamang ang aking gusto.
+
 # Artist: Justine Bieber
 # Song: Baby
 # Lyrics:
