@@ -28,4 +28,9 @@
     All I wanted was to break your walls
     All you ever did was wreck me
     Yeah, you, you wreck me
+
+# Local Artist: JK Lababo
+# Song: Ere
+# Lyrics:
+    Isang Bilyon ikaw lamang ang aking gusto.
 # This is a sample text in README file
